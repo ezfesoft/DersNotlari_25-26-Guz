@@ -12,13 +12,5 @@ Bu platformun temel amacı, öğrencilerin dönemin başlangıcından sonuna kad
 
 ## İçerik Yapısı
 
-Ders materyalleri, akademik takvime uygun olarak haftalık bazda düzenlenmiştir. Her haftanın içeriği, genellikle aşağıdaki formatları içerecek şekilde ilgili klasörde (örn: `Hafta_01/`, `Hafta_02/`) saklanmaktadır:
-
-* Ders Sunumları (PDF, PPTX)
-* Uygulama Notları veya Örnek Kodlar (varsa)
-* Okuma Materyalleri ve Makaleler
-* Ders içi tartışma notları (.md)
-
-## Materyallere Nasıl Erişilir?
-
-Öğrenciler, tüm ders materyallerini görüntülemek ve indirmek için iki temel yöntemi kullanabilirler.
+Ders materyalleri, akademik takvime uygun olarak haftalık bazda düzenlenmiştir.
+* Ders Sunumları (PDF)
