@@ -1,4 +1,4 @@
-Ders Notları (2025-2026 Güz)
+# Ders Notları (2025-2026 Güz)
 
 Bu repository, **Şebinkarahisar MYO / UBYO** bünyesinde yürüttüğüm derslerin 2025-2026 Eğitim-Öğretim Yılı Güz Yarıyılı'na ait ders notlarını, sunumlarını ve ilgili materyallerini içermektedir.
 
